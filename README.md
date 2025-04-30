@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Scalable Distributed Log Processing System**
+- 👯 I’m looking to collaborate on **Multi-Vendor E-Commerce Platform with Nextjs, React & Stripe Connect**
 
 - 🤝 I’m looking for help with **Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/baonguyen1530](https://github.com/baonguyen1530)
 
-- 📫 How to reach me **baonguyen1530@gmail.com**
+- 📫 How to reach me **baong1530@gmail.com**
 
 - ⚡ Fun fact **I love cats**
 
